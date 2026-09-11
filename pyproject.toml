@@ -27,7 +27,9 @@ dependencies = [
   'dnspython',
   'IPy',
   'pysnmp',
-  'telnetlib-313-and-up'
+  'telnetlib-313-and-up',
+  'hatchling',
+  'editables',
 ]
 classifiers = [
     'Programming Language :: Python :: 3',
